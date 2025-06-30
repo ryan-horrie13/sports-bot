@@ -1,7 +1,3 @@
-"""
-GroupMe Bot
-Developed by Paul Pfeister
-"""
 import os
 import sys
 import requests
